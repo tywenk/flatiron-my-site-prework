@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: bisque;
+}
+input.cb {
+  width: 10px;
+  height: 10px;
+}
+
+#bg-cb {
+  position: relative;
+  background-color: cornflowerblue;
+  width: 100px;
+  margin-left: 20%;
+  margin-top: 30%;
+  padding: 0.5em;
+  border: 1em;
+  border-width: 0.1em;
+  border-color: rgb(0, 0, 0);
+  border-style: dashed;
+}
+
+.marq-cont {
+}
